@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hw2/hw2.iml" filepath="$PROJECT_DIR$/hw2/hw2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hw3/hw3.iml" filepath="$PROJECT_DIR$/hw3/hw3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wse-hw.iml" filepath="$PROJECT_DIR$/wse-hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/indexer/indexer.iml" filepath="$PROJECT_DIR$/indexer/indexer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/query_processor/query_processor.iml" filepath="$PROJECT_DIR$/query_processor/query_processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wse.iml" filepath="$PROJECT_DIR$/wse.iml" />
     </modules>
   </component>
 </project>

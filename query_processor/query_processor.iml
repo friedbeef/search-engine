@@ -7,7 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="hw2" />
+    <orderEntry type="module" module-name="indexer" />
     <orderEntry type="library" name="jsoup-1.16.2" level="project" />
   </component>
 </module>
